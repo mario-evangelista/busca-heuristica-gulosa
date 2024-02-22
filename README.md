@@ -7,7 +7,7 @@ Este repositório contém um código em Python para resolver o problema da Mochi
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório em seu ambiente local.
 3. Certifique-se de ter um arquivo de dados `dados.txt` seguindo o formato descrito abaixo.
-4. Execute o código Python `mochila.py`.
+4. Execute o código Python `busca_gulosa.py`.
 5. O programa mostrará os resultados das duas abordagens para resolver o problema da mochila.
 
 ### Formato do arquivo de dados (`dados.txt`)
