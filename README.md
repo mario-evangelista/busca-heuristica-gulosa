@@ -52,3 +52,7 @@ python busca_gulosa.py
 ### Resultado
 
 O programa exibirá a tabela de dados, seguida pelos resultados da heurística gulosa pelo lucro e pela eficiência, mostrando o peso total, lucro total e os itens selecionados para a mochila em cada caso.
+
+<div align="center">
+<img src="https://github.com/mario-evangelista/busca-heuristica-gulosa/assets/121322767/c8388d49-423d-450f-a03d-21fedbf91dc6" width="700px" />
+</div>
